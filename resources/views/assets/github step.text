@@ -1,0 +1,10 @@
+git checkout -b new-branch-name
+
+git add .
+git commit -m "Commit message explaining your changes"
+
+git push origin new-branch-name
+
+git remote add origin git@github.com:sandip239/e-penal.git
+git push origin main
+
